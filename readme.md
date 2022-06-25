@@ -1,6 +1,12 @@
 # Grafana Dashboards
 
 > Backup de Dashboards do Grafana usando PHP
+>
+> O Script cria os arquivos os arquivos em JSON dentro de um diretório. Ex: grafana_bkp_25_06_22
+
+![img](./img/bkps1.png)
+
+> Quer dizer que o backup foi gerado dia 25/06/2022 :)
 
 ## Referências
 
